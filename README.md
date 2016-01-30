@@ -22,7 +22,7 @@ This formula counts the commas in the field and adds 1, so that a row with 0 com
 
 ####Research Analysis
 
-Perform an 'Organizational-Enhanced' search in Web of Science to retrieve research by your institution.  Save the results to your marked list (limited to 500 articles at a time) and export the marked records:
+Perform an 'Organizational-Enhanced' search in Web of Science to retrieve research by your institution.  Save the results to your marked list (limited to 500 articles at a time) and export the marked records as tab-delimited text:
 
 ![Marked List Export Settings](https://raw.githubusercontent.com/lpmagnuson/STARS/master/WOSrecords/WOS_Field_Export.png)
 
